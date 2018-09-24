@@ -1,0 +1,1 @@
+rman target=/ @cmdfile2.txt
